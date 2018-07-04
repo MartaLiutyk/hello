@@ -24,7 +24,7 @@ public class Log4jExample {
         String userName;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your name:");
-		System.out.println("hhello:");
+		System.out.println("h");
         userName = scanner.nextLine();
         if (userName.length() > 3) {
             System.out.print("Your name is" + userName);
